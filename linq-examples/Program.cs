@@ -1,6 +1,7 @@
 ﻿using linq_examples;
 
-RandomExample.Call();
+//RandomExample.Call();
+Combine_LINQ_queries_with_regular_expressions.Call();
 
 //Student.QueryHighScores(1, 90);
 //Student.GroupBySingleProperty();
